@@ -8,6 +8,9 @@ Tokenized Earnings is a decentralized application (dApp) that revolutionizes rev
 
 ## Contract Address
 0x55825195A15c98610F9274A4fE471524A834b2A8
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/24c37d9a-b348-40b4-bf11-821d17853ca8" />
+
+
 
 ## Project Vision
 The vision of Tokenized Earnings is to empower creators by decentralizing and democratizing the way revenues are shared. With immutable smart contracts, creators are assured of transparency, security, and equitable rewards for their contributions. This platform aspires to redefine trust and efficiency in the creative economy.
